@@ -12,7 +12,7 @@ The app provides several specific functions:
 3. Checks the weather at the site of each work order to alert the inspector of dangerous weather conditions ahead of time
 4. Transcribes speech so the work order can be completed by reading the inspection information
 
-![architecture diagram](./diagram.png);
+![architecture diagram](./diagram.png)
 
 ## Setup
 
