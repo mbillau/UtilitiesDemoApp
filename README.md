@@ -12,6 +12,8 @@ The app provides several specific functions:
 3. Checks the weather at the site of each work order to alert the inspector of dangerous weather conditions ahead of time
 4. Transcribes speech so the work order can be completed by reading the inspection information
 
+![architecture diagram](./diagram.png);
+
 ## Setup
 
 This demo relies on services provided by the IBM Bluemix cloud, so the user must have a Bluemix account in order to continue.
@@ -31,7 +33,6 @@ Click any of the links below to check out a specific lab.
 1. [Weather Company Data](./labs/3.\ Working\ with\ Weather\ Company\ Data.md)
 1. [MobileFirst Security](./labs/4.\ Working\ with\ Login\ Security.md)
 1. [Watson Speech-to-Text](./labs/5.\ Adding\ Watson\ Speech\ to\ Text.md)
-
 
 ## License
 
